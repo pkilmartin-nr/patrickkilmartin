@@ -24,7 +24,7 @@ Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Patrick/c
 { 
 
 title: 'Cover Letter',
-Svg: require('@site/static/img/api.svg').default, to: '/docs/Patrick/cover', 
+Svg: require('@site/static/img/lightbulb.svg').default, to: '/docs/Patrick/cover', 
 
 }, 
 
