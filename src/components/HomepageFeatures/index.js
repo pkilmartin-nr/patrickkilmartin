@@ -9,24 +9,24 @@ const FeatureList = [
 
 { 
 
-title: 'Personal Details', 
-Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/me', 
+title: 'Cover Letter',
+Svg: require('@site/static/img/lightbulb.svg').default, to: '/docs/Patrick/cover', 
 
-}, 
+},
 
-{ 
+ { 
 
 title: 'CV', 
 Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Patrick/cv', 
 
-}, 
+},
 
 { 
 
-title: 'Cover Letter',
-Svg: require('@site/static/img/lightbulb.svg').default, to: '/docs/Patrick/cover', 
+title: 'Personal Details', 
+Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/me', 
 
-}, 
+},  
 
 ];
 
