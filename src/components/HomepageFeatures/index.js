@@ -28,6 +28,13 @@ Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/me',
 
 },  
 
+{ 
+
+title: 'Sample Topics', 
+Svg: require('@site/static/img/help.svg').default, to: '/docs/Patrick/sample', 
+
+}, 
+
 ];
 
 function Feature({ Svg, title, to, description }) {
