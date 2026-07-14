@@ -21,17 +21,11 @@ Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Patrick/c
 
 },
 
-{ 
-
-title: 'Personal Details', 
-Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/me', 
-
-},  
-
+ 
 { 
 
 title: 'Sample Topics', 
-Svg: require('@site/static/img/help.svg').default, to: '/docs/Patrick/sample', 
+Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/sample', 
 
 }, 
 
