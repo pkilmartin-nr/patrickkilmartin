@@ -25,7 +25,7 @@ Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Patrick/c
 { 
 
 title: 'Sample Topics', 
-Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/sample', 
+Svg: require('@site/static/img/robot.svg').default, to: '/docs/Patrick/personal', 
 
 }, 
 
