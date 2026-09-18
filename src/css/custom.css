@@ -28,3 +28,26 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Color the header blue */
+.card h2 {
+  color: #4e89e8;
+}
+
+/* Hide the paragraph text completely */
+.card p {
+  display: none;
+}
+
+/* Change markdown header text colors globally */
+.markdown h1, .markdown h2, .markdown h3 {
+  color: #1a8870;
+}
+
+/* Change navbar/header title text color */
+.navbar__brand .navbar__title {
+  color: #4e89e8;
+}
+
+
