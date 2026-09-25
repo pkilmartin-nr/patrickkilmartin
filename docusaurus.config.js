@@ -89,7 +89,7 @@ const config = {
       footer: {
         style: 'dark',
         
-        copyright: `© ${new Date().getFullYear()} Patrick Kilmartin. Built with Docusaurus and GitHub.`,
+        copyright: `© ${new Date().getFullYear()} Patrick Kilmartin. Built with Docusaurus, Markdown Extended and GitHub.`,
       },
       prism: {
         theme: prismThemes.github,
