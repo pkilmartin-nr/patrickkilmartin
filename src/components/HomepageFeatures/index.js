@@ -16,7 +16,7 @@ Svg: require('@site/static/img/lightbulb.svg').default, to: '/docs/Welcome/cover
 
  { 
 
-title: 'Curriculum Vitae', 
+title: 'Resume', 
 Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Welcome/cv', 
 
 },
@@ -24,7 +24,7 @@ Svg: require('@site/static/img/electric_bolt.svg').default, to: '/docs/Welcome/c
  
 { 
 
-title: 'Sample Topics', 
+title: 'Personal Details', 
 Svg: require('@site/static/img/robot.svg').default, to: '/docs/Welcome/personal', 
 
 }, 
